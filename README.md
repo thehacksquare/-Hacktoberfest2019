@@ -13,7 +13,9 @@ Follow these steps to make your first pull request-
 4. Write these command on your terminal-
 
 git add -A
+
 git commit -m "your name"
+
 git push origin master
 
 5. Then create your pull request.
