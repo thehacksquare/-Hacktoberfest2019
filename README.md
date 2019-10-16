@@ -23,5 +23,7 @@ git push origin master
 
 Congratulations!! You have successfully created your pull request.
 
+
 Check your progress here (https://hacktoberfest.digitalocean.com/profile)
+
 Wait for your shirt.
