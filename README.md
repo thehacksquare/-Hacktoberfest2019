@@ -9,7 +9,7 @@ Follow these steps to make your first pull request-
 2. Clone your forked repository to your local machine.
 
 3. Add a Program in any Language you like.
-
+4.oh thAT is a hacktober fest
 4. then add your name in Contributors.md file.
 
 5. Write these command on your terminal-
